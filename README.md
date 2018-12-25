@@ -1,2 +1,5 @@
 # solid-barnacle
 PANDAS HW
+
+
+A thorough review was done on the data related to the new fantasy game: Heroes of Pymoli.  There was a total of 576 players for this game making a total of 780 purchases, and bringing in revenue of around $2,400.  Male players dominated the game demographics, with 84% of the total population, followed by female players at 14%.  However, the average purchase price by females was slightly higher then the purchases of males, at a difference of 18 cents.  A breakdown of the age demographics of the players showed the largest population at 44% being between 20-24 years old, followed by 15-19 years old, and then 25-29 years old.  As you would expect, the 20-24 year old’s made the most purchases at the highest total value, but, they didn’t have the highest purchase price. The highest purchase price by age demographic belonged to players between the age of 35-39.  Out of all the players, the top spender spent a total of just under $19.  The most popular and profitable item sold was item ID 178 – Oathbreaker, Last Hope of the Breaking Storm.  It was purchased 12 times total for a value of $50.76.  
